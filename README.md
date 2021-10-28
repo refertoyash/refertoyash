@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=refertoyash" alt="refertoyash" /></a> </p>
 
-- ⚡ Fun fact **I am also a poet😉**
+- ⚡ Fun fact **I'm a deep observer who loves music and also hold the art of popping out my heart through writing.😉**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
