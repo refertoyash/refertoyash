@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I am Yash Tiwari</h1>
-<h3 align="center">A cp enthusiast and frontend developer</h3>
+<h3 align="center">A cp enthusiast and Web developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=refertoyash&label=Profile%20views&color=0e75b6&style=flat" alt="refertoyash" /> </p>
 
